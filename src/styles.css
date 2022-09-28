@@ -54,6 +54,11 @@ li a:hover {
   color: white;
 }
 
+.container {
+    margin: 1rem;
+    text-align: centre;
+}
+
 .logo {
   margin-top: 1px;
   margin-left: 0px;
